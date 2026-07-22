@@ -8,7 +8,7 @@ using namespace std;
 
 int comparison_count = 0;
 
-// Divide and Conquer function
+// divide and conquer function
 pair<int, int> minMaxDC(const vector<int> &arr, int low, int high)
 {
     // Base case: single element

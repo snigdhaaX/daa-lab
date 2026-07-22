@@ -1,4 +1,4 @@
-# Design & Analysis of Alogirithms - CS5303
+# Design & Analysis of Algorithms - CS5303
 Code snippets for lab, includes - 
 ### 1. Implementation and Performance Analysis of Interpolation Search
 To implement the Interpolation Search algorithm in Python and analyze its time complexity by measuring execution
